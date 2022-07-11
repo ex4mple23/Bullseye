@@ -2,6 +2,5 @@
 <<<<<<< HEAD
 
 =======
-<img src="(https://imgur.com/rYWED94)" />
-![alt_text](https://imgur.com/IoEwLtg)
+<img src="/App/Screen Shot 2022-07-11 at 22.28.28" alt="Alt text" title="Optional title">
 >>>>>>> refs/remotes/origin/main
