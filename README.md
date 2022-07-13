@@ -1,8 +1,2 @@
-# Bullseye
-<<<<<<< HEAD
-
-=======
-![alt text](https://imgur.com/d1NeuaV)
-![alt text](https://imgur.com/rYWED94)
-![alt_text](https://imgur.com/IoEwLtg)
->>>>>>> refs/remotes/origin/main
+<img src="/Bullseye/App/Screen Shot 2022-07-11 at 22.28.28.png" alt="Alt text" title="Optional title">
+<img src="/Bullseye/App/Screen Shot 2022-07-11 at 22.28.52.png" alt="Alt text" title="Optional title">
